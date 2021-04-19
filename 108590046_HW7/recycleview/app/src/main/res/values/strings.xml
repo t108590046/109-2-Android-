@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">HW7_108590046</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="recipes_1">Ingredients \n For the marinade:\n 3 pounds of chicken parts (thighs, drumsticks, wings, breasts), skin-on, bone-in
+                            \n 2 cups buttermilk (can also use plain yogurt thinned with a little milk)
+                            \n 1 large onion, sliced
+                            \n 1/4 cup chopped mixed fresh herbs (parsley, thyme, tarragon) or a teaspoon each of the dried herbs.
+                            \n 1/2 teaspoon paprika
+                           \n  1/2 teaspoon cayenne pepper
+                           \n  For frying the chicken:
+                           \n  2 cups flour
+                           \n  1/2 teaspoon garlic salt
+                           \n  1/2 teaspoon onion salt
+                           \n  1 teaspoon cayenne pepper
+                           \n  Salt and pepper
+                           \n  2 cups cooking oil (such as canola oil, rice bran oil, or peanut oil)</string>
+    <string name="recipes_2">Ingredients
+    \nBasic ingredients:
+    \n4 large flour tortillas (9-10 inches diameter)
+    \nButter
+    \n1/2 pound grated cheese, either mild or sharp cheddar, or Monterey Jack
+    \nPotential filling ingredients:
+   \n Beans, cooked (black beans, pinto beans)
+    \nTomatoes, chopped
+    \nSummer squash, chopped
+    \nOnions (green onions, red onions, onion greens)
+    \nMushrooms (if using a lot, sauté first, to remove moisture)
+   \n Cooked shredded chicken, pork, or beef
+   \n Chiles, either from cooked green chiles, chopped pickled jalapenos, or salsa
+        \nCumin and/or chili powder for extra heat</string>
+    <string name="recipes_3">Ingredients
+    \n2/3 cup heavy cream
+    \n4 ounces semisweet chocolate, finely chopped
+    \n8 ounces bittersweet chocolate, finely chopped
+    \n1/3 cup Irish whiskey
+        \n1/4 cup cocoa powder, unsweetened</string>
+    <string name="recipes_4">Ingredients
+\n5 pounds St. Louis-Style pork ribs (as a slab)
+\n1 cup gochujang (Korean chile paste)
+\n1/2 cup pineapple juice or minced pineapple
+\n1/2 cup sugar
+\n1/2 medium yellow onion
+\n5 garlic cloves, peeled
+\n2-inch piece of ginger, peeled and roughly chopped
+\n3 tablespoons soy sauce
+\n2 tablespoons sesame oil
+\n1 teaspoon freshly ground black pepper</string>
+    <string name="recipes_5">
+    Ingredients
+    \n1 cup white wine, or 1 cup water and the juice of 1 lemon
+    \n2 pounds mussels, scrubbed with beards removed
+    \n1 1/2 pounds littleneck clams (about 12 clams in their shells)
+    \n6 small Yukon Gold or red potatoes (the size of walnuts) or fingerling potatoes, sliced into coins
+    \n1 can (16 ounces) whole peeled tomatoes and their juices
+    \n2 tablespoons olive oil
+    \n2 cloves garlic, finely chopped
+    \n1/4 teaspoon crushed red pepper
+    \n1 1/2 cups chicken stock
+    \n1 pound skinless boneless haddock, halibut, or other firm-fleshed white fish, cut into 6 even-sized pieces
+    \n1/2 pound cooked lobster, out of the shell and cut into 1-inch pieces
+    \n4 tablespoons chopped fresh parsley
+    </string>>
+</resources>
