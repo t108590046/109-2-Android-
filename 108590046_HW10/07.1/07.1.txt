@@ -1,0 +1,3 @@
+1.  1 預設是0-100 可以利用 android:max 和 android:min 定義最大值及最小值 2 setProgress(int)
+2. 1 URL 2 Integer 3 Long
+3. Implement publishProgress(). Call onProgressUpdate().
